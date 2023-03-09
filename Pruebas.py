@@ -1,7 +1,5 @@
 import numpy as np
 
-print('hola mensos')
+y = 2+5
 
-def Modificacion(y):
-    n=y+1000
-    return n
+print(y)

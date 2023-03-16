@@ -6,4 +6,4 @@ print('hice una modificación')
 print(np.sin(np.pi))
 
  
-print("Hola Carla")
+print("Hola Sofi")

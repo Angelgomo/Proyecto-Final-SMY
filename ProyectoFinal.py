@@ -5,5 +5,5 @@ print('hice una modificación')
 
 print(np.sin(np.pi))
 
- 
-print("Hola Sofi")
+print("Hola Brandon, estas bn pendejo") 
+print("Hola Carla")

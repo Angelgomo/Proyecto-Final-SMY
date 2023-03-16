@@ -9,3 +9,5 @@ print("Efectivamente lo estas amigo")
 print("Hola Carla")
 print('Hola mundo')
 pront("Hola BRandon, como andas")
+
+print("k pendejo")

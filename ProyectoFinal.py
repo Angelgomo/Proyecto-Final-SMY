@@ -8,7 +8,7 @@ print(np.sin(np.pi))
 print("Efectivamente lo estas amigo") 
 print("Hola Carla")
 print('Hola mundo')
-pront("Hola BRandon, como andas")
+print("Hola BRandon, como andas")
 
 print("k pendejo")
 print("k pendejo")
